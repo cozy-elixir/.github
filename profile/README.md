@@ -17,6 +17,11 @@
 
 - [Tesla-compatible libraries](https://github.com/cozy-elixir/proposals/blob/main/tesla-compatible-libraries.md)
 
+**Generators**
+
+- [`combo_new`](https://github.com/cozy-elixir/combo_new)
+- [`combo`](https://github.com/cozy-elixir/combo) (WIP)
+
 ---
 
 And more ...
