@@ -18,6 +18,7 @@
 **Packages**
 
 - [`cozy_proxy`](https://github.com/cozy-elixir/cozy_proxy)
+- [`cozy_telemetry`](https://github.com/cozy-elixir/cozy_telemetry)
 - [`cozy_params`](https://github.com/cozy-elixir/cozy_params)
 - [`cozy_case`](https://github.com/cozy-elixir/cozy_case)
 - [`cozy_env`](https://github.com/cozy-elixir/cozy_env)
