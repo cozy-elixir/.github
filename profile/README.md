@@ -1,5 +1,18 @@
 > Feel free to contribute ;)
 
+<details>
+  <summary><b>Why do you build small packages, even though they don't contain much code?</b></summary>
+
+<br />
+
+> Strictly speaking, I build focused packages.
+>
+> The number of LOC (lines of code) is irrelevant, what matters is <b>encapsulating complexity</b>. The number of LOC is small, simply because the problem is not very complex.
+>
+> Read more at [Small Focused Modules by Sindre Sorhus](https://sindresorhus.com/blog/small-focused-modules)
+
+</details>
+
 ---
 
 **Packages**
