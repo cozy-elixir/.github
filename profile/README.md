@@ -23,6 +23,7 @@
 - [`cozy_case`](https://github.com/cozy-elixir/cozy_case)
 - [`cozy_env`](https://github.com/cozy-elixir/cozy_env)
 - [`cozy_svg`](https://github.com/cozy-elixir/cozy_svg)
+- [`cozy_logger`](https://github.com/cozy-elixir/cozy_logger)
 - [`plug_probe`](https://github.com/cozy-elixir/plug_probe)
 - [`plug_locale`](https://github.com/cozy-elixir/plug_locale)
 - [`fs_build`](https://github.com/cozy-elixir/fs_build)
