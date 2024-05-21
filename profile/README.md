@@ -28,6 +28,7 @@
 - [`plug_locale`](https://github.com/cozy-elixir/plug_locale)
 - [`fs_build`](https://github.com/cozy-elixir/fs_build)
 - [`chinese_holiday`](https://github.com/cozy-elixir/chinese_holiday)
+- [`cozy_aliyun_open_api`](https://github.com/cozy-elixir/cozy_aliyun_open_api)
 
 **Proposals**
 
