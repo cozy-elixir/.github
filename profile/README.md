@@ -1,20 +1,3 @@
-> Feel free to contribute ;)
-
-<details>
-  <summary><b>Why do you build small packages, even though they don't contain much code?</b></summary>
-
-<br />
-
-> Strictly speaking, I build focused packages.
->
-> The number of LOC (lines of code) is irrelevant, what matters is <b>encapsulating complexity</b>. The number of LOC is small, simply because the problem is not very complex.
->
-> Read more at [Small Focused Modules by Sindre Sorhus](https://sindresorhus.com/blog/small-focused-modules)
-
-</details>
-
----
-
 **Packages**
 
 - [`cozy_proxy`](https://github.com/cozy-elixir/cozy_proxy)
@@ -26,14 +9,27 @@
 - [`cozy_logger`](https://github.com/cozy-elixir/cozy_logger)
 - [`plug_probe`](https://github.com/cozy-elixir/plug_probe)
 - [`plug_locale`](https://github.com/cozy-elixir/plug_locale)
+- [`ecto_i18n`](https://github.com/cozy-elixir/ecto_i18n)
 - [`fs_build`](https://github.com/cozy-elixir/fs_build)
 - [`chinese_holiday`](https://github.com/cozy-elixir/chinese_holiday)
 - [`cozy_aliyun_open_api`](https://github.com/cozy-elixir/cozy_aliyun_open_api)
+- ...
 
 **Proposals**
 
 - [Tesla-compatible libraries](https://github.com/cozy-elixir/proposals/blob/main/tesla-compatible-libraries.md)
 
----
+**FAQ**
 
-And more ...
+<details>
+  <summary>Why do you build small packages, even though they don't contain much code?</summary>
+
+<br />
+
+> Strictly speaking, I build focused packages.
+>
+> The number of LOC (lines of code) is irrelevant, what matters is <b>encapsulating complexity</b>. The number of LOC is small, simply because the problem is not very complex.
+>
+> Read more at [Small Focused Modules by Sindre Sorhus](https://sindresorhus.com/blog/small-focused-modules)
+
+</details>
