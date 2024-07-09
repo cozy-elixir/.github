@@ -23,7 +23,8 @@
 
 **Proposals**
 
-- [Ship utilities for building platform SDKs](https://github.com/cozy-elixir/proposals/blob/main/ship-utilities-for-building-platform-sdks.md)
+- [Ship utilities for building platform SDKs](https://github.com/cozy-elixir/proposals/blob/main/ship-utilities-for-building-platform-sdks.md). And the packages I built by following it:
+  - [`alipay_kit`](https://github.com/cozy-elixir/alipay_kit)
 - [Tesla-compatible libraries](https://github.com/cozy-elixir/proposals/blob/main/tesla-compatible-libraries.md)
 
 **FAQ**
