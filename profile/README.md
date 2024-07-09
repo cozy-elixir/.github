@@ -16,6 +16,11 @@
 - [`apple`](https://github.com/cozy-elixir/apple)
 - ...
 
+**✱-agnostic packages**
+
+- [`http_spec`](https://github.com/cozy-elixir/http_spec)
+- [`jxon`](https://github.com/cozy-elixir/jxon)
+
 **Proposals**
 
 - [Ship utilities for building platform SDKs](https://github.com/cozy-elixir/proposals/blob/main/ship-utilities-for-building-platform-sdks.md)
