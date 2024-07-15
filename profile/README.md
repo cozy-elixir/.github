@@ -12,7 +12,6 @@
 - [`ecto_i18n`](https://github.com/cozy-elixir/ecto_i18n)
 - [`fs_build`](https://github.com/cozy-elixir/fs_build)
 - [`chinese_holiday`](https://github.com/cozy-elixir/chinese_holiday)
-- [`aliyun_open_api`](https://github.com/cozy-elixir/aliyun_open_api)
 - [`apple`](https://github.com/cozy-elixir/apple)
 - ...
 
@@ -24,6 +23,7 @@
 **Proposals**
 
 - [Ship utilities for building platform SDKs](https://github.com/cozy-elixir/proposals/blob/main/ship-utilities-for-building-platform-sdks.md). And the packages I built by following it:
+  - [`alibaba_cloud_kit`](https://github.com/cozy-elixir/alibaba_cloud_kit)
   - [`alipay_kit`](https://github.com/cozy-elixir/alipay_kit)
 - [Tesla-compatible libraries](https://github.com/cozy-elixir/proposals/blob/main/tesla-compatible-libraries.md)
 
