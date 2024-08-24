@@ -4,6 +4,7 @@
 - [`cozy_telemetry`](https://github.com/cozy-elixir/cozy_telemetry)
 - [`cozy_params`](https://github.com/cozy-elixir/cozy_params)
 - [`cozy_case`](https://github.com/cozy-elixir/cozy_case)
+- [`cozy_size`](https://github.com/cozy-elixir/cozy_size)
 - [`cozy_env`](https://github.com/cozy-elixir/cozy_env)
 - [`cozy_svg`](https://github.com/cozy-elixir/cozy_svg)
 - [`cozy_logger`](https://github.com/cozy-elixir/cozy_logger)
