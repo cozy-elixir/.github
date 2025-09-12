@@ -5,7 +5,7 @@
 - [`cozy_params`](https://github.com/cozy-elixir/cozy_params)
 - [`cozy_case`](https://github.com/cozy-elixir/cozy_case)
 - [`cozy_size`](https://github.com/cozy-elixir/cozy_size)
-- [`cozy_env`](https://github.com/cozy-elixir/cozy_env)
+- [`cozy_env`](https://github.com/cozy-elixir/cozy_env) (moved to [`system_env`](https://github.com/combo-lab/system_env))
 - [`cozy_svg`](https://github.com/cozy-elixir/cozy_svg)
 - [`cozy_logger`](https://github.com/cozy-elixir/cozy_logger)
 - [`plug_probe`](https://github.com/cozy-elixir/plug_probe)
