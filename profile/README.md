@@ -1,7 +1,7 @@
 **Packages**
 
 - [`cozy_proxy`](https://github.com/cozy-elixir/cozy_proxy) (merged into [`combo`](https://github.com/combo-lab/combo))
-- [`cozy_telemetry`](https://github.com/cozy-elixir/cozy_telemetry)
+- [`cozy_telemetry`](https://github.com/cozy-elixir/cozy_telemetry) (moved to [`needle_telemetry`](https://github.com/combo-lab/needle_telemetry))
 - [`cozy_params`](https://github.com/cozy-elixir/cozy_params)
 - [`cozy_case`](https://github.com/cozy-elixir/cozy_case)
 - [`cozy_size`](https://github.com/cozy-elixir/cozy_size)
