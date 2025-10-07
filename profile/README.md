@@ -8,7 +8,7 @@
 - [`cozy_env`](https://github.com/cozy-elixir/cozy_env) (moved to [`system_env`](https://github.com/combo-lab/system_env))
 - [`cozy_svg`](https://github.com/cozy-elixir/cozy_svg)
 - [`cozy_logger`](https://github.com/cozy-elixir/cozy_logger)
-- [`plug_probe`](https://github.com/cozy-elixir/plug_probe)
+- [`plug_probe`](https://github.com/cozy-elixir/plug_probe) (deprecated, because it's simple, and you should build your own to fit your own need)
 - [`plug_locale`](https://github.com/cozy-elixir/plug_locale)
 - [`ecto_i18n`](https://github.com/cozy-elixir/ecto_i18n)
 - [`fs_build`](https://github.com/cozy-elixir/fs_build)
